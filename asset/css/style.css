@@ -22,7 +22,7 @@ body {
   display: block;
   width: 15px;
   height: 15px;
-  background: yellowgreen;
+  background: #9acd32;
   position: absolute;
   -webkit-animation: load 0.7s infinite alternate ease-in-out;
           animation: load 0.7s infinite alternate ease-in-out;
